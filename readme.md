@@ -1,5 +1,9 @@
 ##Project Overview
 
+**Project of BCA 4th semester**
+
+**Project by: Sandip Khadka && Sudrith Dev Dangi**
+
 This Point of Sale (POS) System is designed to streamline retail management by combining inventory management and billing system functionalities. The system supports multiple user roles (Admin and Cashier) with role-specific permissions to ensure smooth operations in a retail environment.
 
 ##Features
