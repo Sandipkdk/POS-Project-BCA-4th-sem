@@ -1,0 +1,6 @@
+Computer Graphics
+digitize the line with in points (1,5) and (7,2)
+
+Wap to implement DDA algorithm with in points (1,6) and (10,20) 
+
+WAP to draw a line by using built-in function line 
